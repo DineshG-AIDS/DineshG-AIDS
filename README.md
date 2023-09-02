@@ -10,7 +10,7 @@
 <h2 align="center">A Front-End Magcian  <img  width="30px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/></h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg-aids&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg-aids" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=dineshg-aids&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)" alt="dineshg-aids" /> </p>
 
 - 🔭 I’m currently working on [Uzhavan](https://github.com/DineshG-AIDS/uzhavanLanding)
 
