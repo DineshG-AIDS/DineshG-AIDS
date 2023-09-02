@@ -7,7 +7,7 @@
 
  
 </div>
-<h3 align="center">A Front-End Magcian</h3>
+<h3 align="center">A Front-End Magcian</h3> <img  width="50px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg-aids&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg-aids" /> </p>
