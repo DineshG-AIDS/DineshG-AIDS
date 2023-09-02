@@ -1,8 +1,8 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://github.com/DineshG-AIDS)
 
-<h1 align="center"> Greetings! 👋 I am Dinesh G</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> Greetings! 👋 I am Dinesh G <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<h3 align="center">A Front-End Magcian</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg-aids&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg-aids" /> </p>
