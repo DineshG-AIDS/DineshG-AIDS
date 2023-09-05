@@ -8,7 +8,7 @@
 
  
 </div>
-<h2 align="center">A Front-End Magcian  <img  width="30px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/></h2>
+<h2 align="center">A Front-End Magician  <img  width="30px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/></h2>
 <img align="right" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshg-aids&label=Profile%20views&color=0e75b6&style=flat" alt="dineshg-aids" /> </p>
